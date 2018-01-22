@@ -14,12 +14,12 @@ and thenn using a chain of processing calls.
 a. Generate a list of the names of all the _files_ in the current directory
 (i.e. not subdirectories). Exclude 'hidden' files (files whose names start with the '.' character).
 
-a. Generate a `Map`, where the keys are the names of the files and the corresponding values
+b. Generate a `Map`, where the keys are the names of the files and the corresponding values
 are the appropriate size in bytes.
 
-a. Generate a list of the 10 smallest files in the directory, in order, together with their sizes.
+c. Generate a list of the 10 smallest files in the directory, in order, together with their sizes.
 Do the same for the 10 largest files.
 
-a. Generate a data structure that arranges the contents of the directory according to the first letter of their name.
+d. Generate a data structure that arranges the contents of the directory according to the first letter of their name.
 In other words, for the letter 'a', there should be a list of entries whose names start with 'a', and so on...
 
