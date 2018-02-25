@@ -9,7 +9,7 @@
 1. Write a program that, for a given month, displays the dates of all the Wednesdays.
 
 1. Write function called ```measure```,
-   which accepts as its argument an instance of the ```Runnable``` Functional interface 
+   which accepts as its argument an instance of the ```Runnable``` functional interface 
    (this could be an object that represents the task or a lambda expression).
    The function should return a ```Duration``` object that represents how long it
    took to run the task. Test this with some tasks, for example:
