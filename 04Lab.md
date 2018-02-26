@@ -1,6 +1,6 @@
 # Advanced Java
 
-## Lab for Chapter 3 - Optional
+## Lab for Chapter 4 - Optional
 
 1. Certain arithmetic operations are not defined for all possible input values. For example, division is not defined when the divisor is 0, and square root is not defined when the input value is negative.
 
