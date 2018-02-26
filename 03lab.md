@@ -1,6 +1,6 @@
 # Advanced Java
 
-## Lab for Chapter 4 - Streams
+## Lab for Chapter 3 - Streams
 
 1. The method `listFiles()` defined on the type `java.io.File` generates a `List` of the contents of the current directory (or whatever directory path is supplied in the call) as instances of the `java.io.File`.
 
